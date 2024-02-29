@@ -1,0 +1,38 @@
+@charset "utf-8";
+
+body{
+    /* background-image: url(https://cdn.pixabay.com/photo/2017/02/27/10/03/board-2102633_1280.jpg); */
+    background-image: url(https://cdn.pixabay.com/photo/2016/12/29/18/44/background-1939128_1280.jpg);
+    text-align: center;
+}
+
+h1{
+    color: white;
+    margin-top: 5%;
+    font-family: "Kode Mono", monospace;
+    text-shadow: 2px 2px 1px rgb(0, 0, 0);
+}
+
+form{
+    border: solid rgb(35, 141, 228) 3px;
+    max-width: 200px;
+    margin-left: 39%;
+    padding: 50px 50px 50px;
+    font-family: "Kode Mono", monospace;
+    background-color: rgba(8, 77, 104, 0.911);
+    color: white;
+}
+
+input{
+    padding: 5px;
+    margin: 5%;
+    border: solid black 1px;
+    background-color: rgb(9, 68, 107);
+}
+
+button{
+    border: solid black 1px;
+    padding: 5px;
+    background-color: rgb(5, 59, 90);
+    color: white;
+}
